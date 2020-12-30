@@ -12,7 +12,7 @@ defusedxml==0.6.0
 entrypoints==0.3
 importlib-metadata==3.3.0
 ipykernel==5.4.2
-ipython==7.16.1
+ipython==7.16.1 #changed from 7.19.0 to this
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.17.2
@@ -48,7 +48,7 @@ pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 pytz==2020.4
-pywin32==300
+#pywin32==300 # added comment
 pywinpty==0.5.7
 pyzmq==20.0.0
 qtconsole==5.0.1
@@ -70,4 +70,4 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.4.0
-gunicorn
+gunicorn #added later
