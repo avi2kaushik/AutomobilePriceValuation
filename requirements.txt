@@ -72,3 +72,4 @@ wincertstore==0.2
 zipp==3.4.0
 gunicorn #added later
 Flask==1.1.2 #added later
+jsonify==0.5 #added later
